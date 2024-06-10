@@ -1,0 +1,4 @@
+##ignore path in this file when git##
+/checkpoints
+/__pycache__
+/test
